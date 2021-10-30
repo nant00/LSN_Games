@@ -2878,4 +2878,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.30-09.08.19:702][947]LogD3D11RHI: CleanupD3DDevice
 [2021.10.30-09.08.19:773][947]LogExit: Exiting.
 [2021.10.30-09.08.19:785][947]Log file closed, 10/30/21 18:08:19
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
